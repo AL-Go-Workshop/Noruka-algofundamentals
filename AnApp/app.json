@@ -22,6 +22,12 @@
       "name":  "Licensing",
       "publisher":  "Freddy Kristiansen",
       "version":  "1.0.0.0"
+    },
+    {
+      "id": "4270bff7-c860-434f-b09a-0f3e37d243fd",
+      "name": "BingMaps.AppSource",
+      "publisher": "Freddy Kristiansen",
+      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
@@ -41,11 +47,5 @@
   "runtime": "14.0",
   "features": [
     "NoImplicitWith"
-  ],
-    "trustedNuGetFeeds": [
-    {
-      "url": "https://api.nuget.org/v3/index.json",
-      "patterns": "FreddyKristiansen.App1.8c8eec06-bf1c-4ab6-b375-a0a6cf31a6bd"
-    }
   ]
 }
