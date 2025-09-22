@@ -9,5 +9,8 @@
     }
   ],
   "generateDependencyArtifact": true,
-  "templateSha": "5ebcec6a1ede6fc776affff1c10c0e47bc3e7d83"
+  "templateSha": "5ebcec6a1ede6fc776affff1c10c0e47bc3e7d83",
+  "DeployToCustom": {
+    "environmentType": "onPrem"
+  }
 }
